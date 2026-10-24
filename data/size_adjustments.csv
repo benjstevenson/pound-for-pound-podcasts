@@ -1,0 +1,2 @@
+show,multiplier,basis
+TBPN,1.15,"Most of TBPN's audience watches live on X and YouTube, not Spotify. On YouTube, TBPN has 220 subscribers per Spotify rating vs a median of 190 for the other shows (data/audience_check.csv), so its Spotify count is scaled by 220/190 = 1.15. Its X show account (1.6M followers, about 100x the other shows' ratio) would justify far more; see output/robustness.md for how the ranking moves with larger multipliers."

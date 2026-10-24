@@ -1,0 +1,8 @@
+pandas
+requests
+feedparser
+rapidfuzz
+yt-dlp
+gender-guesser
+scipy
+matplotlib

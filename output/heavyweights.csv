@@ -1,0 +1,101 @@
+rank,guest_name,guest_weight,tier,fame,fame_source,x_followers,wikipedia_views_12m,n_shows,shows,stature_reason
+1,Donald Trump,100.0,5,100.0,Wikipedia,111820186,19881255,2,All-In; Lex Fridman Podcast,US President
+2,Elon Musk,100.0,5,100.0,X,241505639,8458091,4,All-In; Cheeky Pint; Dwarkesh Podcast; Lex Fridman Podcast,Leads Tesla and SpaceX ($100B+)
+3,Jeff Bezos,100.0,5,99.9,Wikipedia,10324239,10563060,1,Lex Fridman Podcast,Founded Amazon ($100B+)
+4,Narendra Modi,99.9,5,99.9,X,107110829,3255641,1,Lex Fridman Podcast,Prime Minister of India
+5,Benjamin Netanyahu,99.9,5,99.8,Wikipedia,4471159,7568669,1,Lex Fridman Podcast,Prime Minister of Israel (head of government)
+6,LeBron James,99.9,5,99.8,Wikipedia,55407078,6718476,1,The Tim Ferriss Show,"Globally famous athlete, among the best ever"
+7,JD Vance,99.9,5,99.7,Wikipedia,5550144,5721076,1,All-In,US Vice President
+8,Arnold Schwarzenegger,99.8,5,99.6,Wikipedia,5057153,4483382,1,The Tim Ferriss Show,"Globally famous actor, governor"
+9,Kanye West,99.8,5,99.6,X,30861109,3820093,1,Lex Fridman Podcast,Globally famous musician
+10,Jane Goodall,99.7,5,99.5,Wikipedia,1276086,4099541,1,The Tim Ferriss Show,Globally famous primatologist
+11,Sam Altman,99.7,5,99.4,Wikipedia,6371743,4045453,10,All-In; Conversations with Tyler; David Senra; EconTalk; How I Write; Invest Like the Best; Lex Fridman Podcast; Relentless; TBPN; Uncapped with Jack Altman,CEO of OpenAI ($100B+)
+12,Sundar Pichai,99.5,5,99.0,X,11908748,1191652,3,All-In; Cheeky Pint; Lex Fridman Podcast,CEO of Google/Alphabet ($100B+)
+13,Mark Carney,99.3,5,98.7,Wikipedia,770448,3004886,1,Conversations with Tyler,Prime Minister of Canada
+14,María Corina Machado,99.3,5,98.6,Wikipedia,6028413,2773307,1,All-In,Nobel Peace Prize laureate
+15,Jensen Huang,99.3,5,98.5,Wikipedia,1128978,2711598,4,All-In; Dwarkesh Podcast; Lex Fridman Podcast; No Priors,CEO of Nvidia ($100B+)
+16,Satya Nadella,99.2,5,98.4,X,9648816,748199,4,All-In; Cheeky Pint; Dwarkesh Podcast; No Priors,CEO of Microsoft ($100B+)
+17,Volodymyr Zelenskyy,99.2,5,98.4,X,8920931,1695252,1,Lex Fridman Podcast,President of Ukraine
+18,Mark Zuckerberg,99.1,5,98.2,Wikipedia,2484997,2250384,5,Conversations with Tyler; Dwarkesh Podcast; Lex Fridman Podcast; No Priors; The Tim Ferriss Show,Founder and CEO of Meta ($100B+)
+19,Noam Chomsky,98.8,5,97.7,Wikipedia,,1912400,2,Conversations with Tyler; Lex Fridman Podcast,Era-defining linguist and intellectual
+20,Javier Milei,98.7,5,97.5,Wikipedia,4717256,1837604,1,Lex Fridman Podcast,President of Argentina
+21,Tony Blair,98.6,5,97.1,Wikipedia,229357,1736275,1,Dwarkesh Podcast,Former UK Prime Minister
+22,Magnus Carlsen,98.3,5,96.6,Wikipedia,1134114,1589615,1,Lex Fridman Podcast,Greatest chess player of all time
+23,Sergey Brin,98.0,5,95.9,Wikipedia,,1331127,1,All-In,Co-founded Google ($100B+)
+24,Paul Krugman,97.9,5,95.8,X,4408989,302610,2,Conversations with Tyler; Lex Fridman Podcast,Nobel laureate economist
+25,Michael Phelps,97.7,5,95.4,Wikipedia,1632782,1137324,1,The Tim Ferriss Show,Most decorated Olympian ever
+26,Demis Hassabis,97.5,5,95.0,Wikipedia,1950695,1100373,3,All-In; Dwarkesh Podcast; Lex Fridman Podcast,"Nobel laureate, leads Google DeepMind"
+27,Bob Iger,97.2,5,94.4,Wikipedia,315354,990611,1,The Tim Ferriss Show,CEO of Disney ($100B+)
+28,Terence Tao,96.1,5,92.1,Wikipedia,,722070,2,Dwarkesh Podcast; Lex Fridman Podcast,Fields Medalist
+29,Eric Schmidt,96.0,5,92.0,X,2035673,517051,4,All-In; Conversations with Tyler; Lex Fridman Podcast; The Tim Ferriss Show,Former CEO of Google
+30,Charlie Munger,95.5,5,91.0,Wikipedia,,637564,1,Invest Like the Best,Era-defining investor (Berkshire)
+31,Milton Friedman,95.0,5,90.1,Wikipedia,,572164,1,EconTalk,Nobel laureate economist
+32,Yann LeCun,94.4,5,88.7,X,1324160,477755,1,Lex Fridman Podcast,Turing Award winner
+33,Roger Penrose,93.7,5,87.3,Wikipedia,2068,412133,1,Lex Fridman Podcast,Nobel laureate in physics
+34,Daniel Kahneman,91.6,5,83.3,Wikipedia,14160,303989,3,Conversations with Tyler; Lex Fridman Podcast; The Knowledge Project,Nobel laureate
+35,Yoshua Bengio,91.2,5,82.3,Wikipedia,54952,283338,1,Lex Fridman Podcast,Turing Award winner
+36,Donald Knuth,89.8,5,79.6,Wikipedia,,225799,1,Lex Fridman Podcast,Turing Award winner
+37,John Martinis,89.2,5,78.3,Wikipedia,,211936,1,All-In,Nobel laureate in physics
+38,Joseph Stiglitz,89.1,5,78.3,X,553818,146397,2,Conversations with Tyler; EconTalk,Nobel laureate economist
+39,Daron Acemoglu,88.9,5,77.8,Wikipedia,429451,204734,2,Conversations with Tyler; EconTalk,Nobel laureate economist
+40,Joel Mokyr,88.3,5,76.7,Wikipedia,,192593,2,Conversations with Tyler; EconTalk,Nobel laureate in economics (2025)
+41,Jimmy Donaldson,87.4,4,99.7,X,34988140,3644100,1,Lex Fridman Podcast,"Biggest YouTuber in the world, large business; lower than global icon tier"
+42,Peter Thiel,87.3,4,99.7,Wikipedia,471343,5502608,3,All-In; Conversations with Tyler; The Tim Ferriss Show,"PayPal/Palantir co-founder, Founders Fund; not $100B founder-leader"
+43,Kevin Hart,87.3,4,99.6,X,31374518,1783212,2,TBPN; The Tim Ferriss Show,Globally known comedian/actor
+44,Robert F. Kennedy,87.3,4,99.5,Wikipedia,5786504,4245427,2,All-In; Lex Fridman Podcast,US cabinet secretary (HHS)
+45,Tucker Carlson,87.2,4,99.5,X,17935831,1888523,3,All-In; Jack Neel Podcast; Lex Fridman Podcast,Top-rated political TV host
+46,Stephen Colbert,87.2,4,99.4,X,16538377,1944779,1,TBPN,"Late-night TV host, globally known"
+47,Matthew McConaughey,87.2,4,99.4,Wikipedia,2889719,4041280,2,Lex Fridman Podcast; The Tim Ferriss Show,"Oscar-winning actor, globally known"
+48,Joe Rogan,87.2,4,99.3,X,15709359,1810237,1,Lex Fridman Podcast,Biggest podcaster in the world
+49,Bernie Sanders,87.1,4,99.3,X,14975440,1984413,2,All-In; Lex Fridman Podcast,"US Senator, two-time presidential candidate"
+50,Hugh Jackman,87.1,4,99.2,X,13904586,3340189,1,The Tim Ferriss Show,Globally known actor
+51,Changpeng Zhao,87.1,4,99.1,X,12994647,478386,2,All-In; TBPN,Founded Binance ($10B+)
+52,Jack Dorsey,87.0,4,99.0,X,12534286,670041,1,Lex Fridman Podcast,Co-founded Twitter and Square ($10B+)
+53,Dario Amodei,87.0,4,99.0,Wikipedia,846912,3376787,3,Cheeky Pint; Dwarkesh Podcast; Lex Fridman Podcast,CEO of Anthropic (top AI lab)
+54,Richard Branson,86.9,4,98.9,X,11461897,1592183,1,The Tim Ferriss Show,Founder of Virgin Group
+55,Jared Kushner,86.9,4,98.8,Wikipedia,370536,3088787,4,All-In; Invest Like the Best; Lex Fridman Podcast; No Priors,"Senior White House adviser, investor; cabinet-adjacent"
+56,James Cameron,86.9,4,98.7,Wikipedia,,3036103,2,TBPN; The Tim Ferriss Show,"Globally known filmmaker (Titanic, Avatar)"
+57,John Jumper,86.9,5,73.9,Wikipedia,,153168,1,TBPN,Nobel laureate in chemistry (AlphaFold)
+58,Abhijit Banerjee,86.9,5,73.8,Wikipedia,,152845,2,Conversations with Tyler; EconTalk,Nobel laureate economist
+59,Scott Bessent,86.7,4,98.5,Wikipedia,997875,2672243,1,All-In,US Treasury Secretary (cabinet)
+60,Tulsi Gabbard,86.7,4,98.4,Wikipedia,837983,2519137,2,All-In; Lex Fridman Podcast,Director of National Intelligence (cabinet-level)
+61,Kevin Costner,86.7,4,98.3,Wikipedia,342680,2418066,1,The Tim Ferriss Show,Oscar-winning actor/director
+62,Alex Honnold,86.6,4,98.3,Wikipedia,386797,2340661,1,The Tim Ferriss Show,Globally known climber
+63,Michael Dell,86.6,4,98.2,X,8596247,864344,3,All-In; David Senra; The Tim Ferriss Show,Founded Dell ($10B+)
+64,Kevin Spacey,86.6,4,98.2,Wikipedia,3495332,2229138,1,Lex Fridman Podcast,Two-time Oscar-winning actor
+65,Mark Cuban,86.6,4,98.1,X,8548022,1524318,3,All-In; Lex Fridman Podcast; TBPN,"Billionaire investor, Mavericks owner"
+66,Khabib Nurmagomedov,86.6,4,98.1,Wikipedia,2543524,2079059,1,Lex Fridman Podcast,Globally known UFC champion
+67,Seth Rogen,86.5,4,98.1,X,8093140,2074544,1,The Tim Ferriss Show,Major actor and filmmaker
+68,Vitalik Buterin,86.5,4,98.0,X,7993994,262483,3,Conversations with Tyler; Lex Fridman Podcast; The Tim Ferriss Show,Co-founded Ethereum
+69,Edward Norton,86.5,4,98.0,Wikipedia,,1988630,1,The Tim Ferriss Show,Major actor
+70,Andy Weir,86.4,4,97.9,Wikipedia,74303,1973972,2,Conversations with Tyler; How I Write,Landmark bestseller (The Martian)
+71,Maria Sharapova,86.4,4,97.9,X,7493503,1184512,1,The Tim Ferriss Show,"Tennis champion, globally known"
+72,Alex Karp,86.4,4,97.8,Wikipedia,,1946076,3,All-In; Sourcery; TBPN,"CEO of Palantir; co-founder not sole founder, below $100B-founder tier"
+73,Ron Howard,86.4,4,97.7,Wikipedia,2272635,1939628,1,Invest Like the Best,Oscar-winning director
+74,Dana White,86.4,4,97.7,X,7220911,863112,2,David Senra; Lex Fridman Podcast,Led UFC ($10B+)
+75,Howard Lutnick,86.3,4,97.5,Wikipedia,342308,1875366,1,All-In,"US Commerce Secretary (cabinet), Cantor Fitzgerald CEO"
+76,Marc Andreessen,86.2,4,97.5,X,6656238,617869,13,Cheeky Pint; Conversations with Tyler; David Senra; Dwarkesh Podcast; EconTalk; How I Write; Invest Like the Best; Lenny's Podcast; Lex Fridman Podcast; TBPN; The Knowledge Project; The Tim Ferriss Show; Uncapped with Jack Altman,"Co-created Mosaic/Netscape, co-founded a16z; lower tier when unsure between 4 and 5"
+77,Kareem Abdul-Jabbar,86.2,4,97.4,Wikipedia,1985225,1828578,1,Conversations with Tyler,Basketball legend
+78,Marc Benioff,86.2,4,97.4,X,6376588,410971,3,All-In; Lenny's Podcast; TBPN,Founded Salesforce ($100B+); lower tier when unsure
+79,Jordan Peterson,86.1,4,97.3,X,6166965,1519827,4,Conversations with Tyler; EconTalk; Lex Fridman Podcast; The Tim Ferriss Show,Globally known author (12 Rules for Life)
+80,Harlan Coben,86.1,4,97.2,Wikipedia,163827,1774779,1,How I Write,"Bestselling thriller author, 80M+ books"
+81,Jon Favreau,86.0,4,97.1,Wikipedia,2036851,1699760,1,The Tim Ferriss Show,Major director (Iron Man)
+82,Paul Graham,86.0,4,97.0,X,5440199,184259,4,Conversations with Tyler; EconTalk; How I Write; TBPN,Y Combinator founder
+83,Bill Belichick,85.9,4,96.8,Wikipedia,57650,1648729,1,The Knowledge Project,Most successful NFL coach ever
+84,Michael Saylor,85.9,4,96.8,X,5210013,316903,2,Lex Fridman Podcast; My First Million,Strategy/MicroStrategy founder ($10B+)
+85,Josh Kushner,85.9,4,96.8,Wikipedia,355162,1628016,1,Invest Like the Best,Founder of Thrive Capital (top-tier VC)
+86,Dara Khosrowshahi,85.8,4,96.7,X,5031923,205188,4,All-In; Invest Like the Best; Sourcery; TBPN,CEO of Uber ($100B+); not founder
+87,Pat Gelsinger,85.8,4,96.6,X,4993201,67153,2,All-In; TBPN,Former CEO of Intel
+88,Chuck Robbins,85.8,4,96.5,X,4946477,43453,1,TBPN,CEO of Cisco ($100B+)
+89,Albert Bourla,85.7,4,96.4,X,4940637,125781,1,Lex Fridman Podcast,CEO of Pfizer ($100B+); not founder
+90,Tony Xu,85.7,4,96.4,X,4916254,116323,4,Cheeky Pint; David Senra; TBPN; Uncapped with Jack Altman,Co-founded DoorDash ($10B+)
+91,Pete Buttigieg,85.6,4,96.1,Wikipedia,3753522,1394191,1,All-In,Former US Transportation Secretary (cabinet)
+92,Sia,85.5,4,96.1,Wikipedia,3196915,1376334,1,The Tim Ferriss Show,Globally known singer
+93,Jerry Seinfeld,85.5,4,96.0,Wikipedia,3658284,1347613,1,The Tim Ferriss Show,Comedy legend
+94,Jamie Foxx,85.4,4,95.9,Wikipedia,3669881,1326190,1,The Tim Ferriss Show,Oscar-winning actor and musician
+95,Andrej Karpathy,85.4,4,95.8,X,4355204,679063,3,Dwarkesh Podcast; Lex Fridman Podcast; No Priors,"OpenAI co-founder, Tesla AI head"
+96,Neil Gaiman,85.4,4,95.7,Wikipedia,2670822,1224049,1,The Tim Ferriss Show,Landmark bestselling author
+97,John Carmack,85.3,4,95.6,X,4194616,323821,1,Lex Fridman Podcast,"Legendary programmer (Doom, Quake)"
+98,Neil deGrasse Tyson,85.3,4,95.5,Wikipedia,,1167878,1,The Tim Ferriss Show,"Neil deGrasse Tyson, globally known astrophysicist"
+99,Richard Sutton,85.3,5,70.6,Wikipedia,72510,127303,1,Dwarkesh Podcast,Turing Award winner
+100,Brian Armstrong,85.2,4,95.5,X,4019141,115709,12,All-In; Cheeky Pint; Conversations with Tyler; David Senra; Invest Like the Best; Lex Fridman Podcast; No Priors; Relentless; Sourcery; TBPN; The Tim Ferriss Show; Uncapped with Jack Altman,Co-founded Coinbase ($10B+)
